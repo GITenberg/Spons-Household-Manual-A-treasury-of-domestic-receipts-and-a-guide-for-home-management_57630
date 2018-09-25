@@ -1,5 +1,8 @@
 _repo: Spons-Household-Manual-A-treasury-of-domestic-receipts-and-a-guide-for-home-management_57630
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57630-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Spon, F. N.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '49512'
     url: http://www.gutenberg.org/2009/agents/49512
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57630#Spons-Household-Manual-A-treasury-of-domestic-receipts-and-a-guide-for-home-management
 gutenberg_issued: '2018-08-03'
 gutenberg_type: Text
 identifiers:
